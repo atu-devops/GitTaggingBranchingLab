@@ -11,3 +11,4 @@ Update dependencies to the latest versions
 Fix formatting issues in the codebase
 Add documentation for API endpoints
 Implement user profile page
+Remove unused code
