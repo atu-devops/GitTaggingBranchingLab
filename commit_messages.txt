@@ -35,3 +35,4 @@ Add pagination to the product list
 Update the database migration scripts
 Fix authentication token expiration bug
 Implement a new caching mechanism
+Add a feature toggle for experimental functionality
