@@ -14,3 +14,4 @@ Implement user profile page
 Remove unused code
 Fix security vulnerability
 Update CSS styles
+Add validation for user input
