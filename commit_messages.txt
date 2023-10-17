@@ -2,3 +2,4 @@ Fix a bug in the login process
 Update the README file
 Add new feature: user registration
 Refactor the database schema
+Implement error handling for file uploads
