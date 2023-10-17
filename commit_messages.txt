@@ -13,3 +13,4 @@ Add documentation for API endpoints
 Implement user profile page
 Remove unused code
 Fix security vulnerability
+Update CSS styles
