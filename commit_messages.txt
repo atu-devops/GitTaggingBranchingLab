@@ -31,3 +31,4 @@ Remove deprecated API endpoints
 Refactor the code for better code organization
 Update the logo and branding
 Fix accessibility issues
+Add pagination to the product list
