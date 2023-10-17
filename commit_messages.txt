@@ -43,3 +43,4 @@ Add a changelog file
 Update error messages for better user experience
 Refactor the search algorithm
 Update copyright information
+Implement single sign-on (SSO)
