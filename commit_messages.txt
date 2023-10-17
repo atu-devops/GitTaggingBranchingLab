@@ -28,3 +28,4 @@ Add integration tests for the shopping cart
 Fix memory leak issue
 Implement user roles and permissions
 Remove deprecated API endpoints
+Refactor the code for better code organization
