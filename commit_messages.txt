@@ -32,3 +32,4 @@ Refactor the code for better code organization
 Update the logo and branding
 Fix accessibility issues
 Add pagination to the product list
+Update the database migration scripts
