@@ -33,3 +33,4 @@ Update the logo and branding
 Fix accessibility issues
 Add pagination to the product list
 Update the database migration scripts
+Fix authentication token expiration bug
