@@ -18,3 +18,4 @@ Add validation for user input
 Refactor the user authentication logic
 Merge feature branch 'feature-xyz'
 Fix broken links in the documentation
+Add support for multiple languages
