@@ -1,2 +1,3 @@
 Fix a bug in the login process
 Update the README file
+Add new feature: user registration
