@@ -39,3 +39,4 @@ Add a feature toggle for experimental functionality
 Merge feature branch 'feature-abc'
 Fix localization issues
 Improve performance of image uploads
+Add a changelog file
