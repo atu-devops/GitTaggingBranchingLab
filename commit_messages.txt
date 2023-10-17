@@ -41,3 +41,4 @@ Fix localization issues
 Improve performance of image uploads
 Add a changelog file
 Update error messages for better user experience
+Refactor the search algorithm
