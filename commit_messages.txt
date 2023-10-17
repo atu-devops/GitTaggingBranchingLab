@@ -26,3 +26,4 @@ Add a new API endpoint for user preferences
 Optimize frontend rendering
 Add integration tests for the shopping cart
 Fix memory leak issue
+Implement user roles and permissions
