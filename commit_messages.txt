@@ -9,3 +9,4 @@ Add unit tests for the authentication module
 Optimize database queries for better performance
 Update dependencies to the latest versions
 Fix formatting issues in the codebase
+Add documentation for API endpoints
